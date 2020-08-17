@@ -11,13 +11,15 @@
 ![img9](images/i9.png)
 ![img10](images/i10.png)
 ![img11](images/i11.png)
-![img12](images/i13.png)
+![img12](images/i17.png)
 
 ## *What is Candle Stick & Their Usage:*
 > A candlestick is a type of price chart used in technical analysis that displays the high, low, open, and closing prices of a security for a specific period. It originated from Japanese rice merchants and traders to track market prices and daily momentum hundreds of years before becoming popularized in the United States. The wide part of the candlestick is called the "real body" and tells investors whether the closing price was higher or lower than the opening price (black/red if the stock closed lower, white/green if the stock closed higher).
 Key Takeaways
 ```xml
-Candlestick charts display the high, low, open, and closing prices of a security for a specific period.             Candlesticks originated from Japanese rice merchants and traders to track market prices and daily momentum hundreds of years before becoming popularized in the United States.
+Candlestick charts display the high, low, open, and closing prices of a security for a specific period.
+Candlesticks originated from Japanese rice merchants and traders to track market prices and daily momentum 
+hundreds of years before becoming popularized in the United States.
 Candlesticks can be used by traders looking for chart patterns.
 ```
 
